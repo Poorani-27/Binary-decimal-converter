@@ -2,7 +2,7 @@
 ## Decimal-to-Binary Converter
 
 This is a simple web application that converts decimal numbers to binary and vice versa.
-
+## link <br> https://poorani-27.github.io/Binary-decimal-converter/
 ## Usage
 
 To use the converter, simply enter a decimal or binary number in the corresponding input field and click the "Convert" button. The converted number will be displayed in the other input field.
